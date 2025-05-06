@@ -1,0 +1,30 @@
+flu
+common cold
+migraine
+pneumonia
+bronchitis
+gastroenteritis
+appendicitis
+arthritis
+dengue fever
+malaria
+typhoid fever
+strep throat
+sinusitis
+tonsillitis
+urinary tract infection
+mononucleosis
+hepatitis
+meningitis
+lyme disease
+chronic fatigue syndrome
+asthma
+conjunctivitis
+ear infection
+gastritis
+hypertension
+diabetes
+anemia
+eczema
+sprain
+kidney stones

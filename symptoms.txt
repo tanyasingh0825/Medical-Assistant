@@ -1,0 +1,30 @@
+fever
+cough
+fatigue
+headache
+sore throat
+nausea
+vomiting
+diarrhea
+shortness of breath
+chest pain
+joint pain
+muscle pain
+rash
+chills
+dizziness
+abdominal pain
+loss of appetite
+sweating
+swollen lymph nodes
+weight loss
+sneezing
+runny nose
+back pain
+itchy eyes
+ear pain
+difficulty swallowing
+dry mouth
+numbness
+blurred vision
+constipation

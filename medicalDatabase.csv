@@ -1,0 +1,40 @@
+patient id|patient name|symptoms list|possible disease
+P000|Setup|fever,cough,fatigue|flu
+P000|Setup|fever,cough,sore throat,sneezing,runny nose|common cold
+P000|Setup|headache,dizziness,blurred vision|migraine
+P000|Setup|cough,shortness of breath,chest pain|pneumonia
+P000|Setup|cough,shortness of breath|bronchitis
+P000|Setup|nausea,vomiting,diarrhea|gastroenteritis
+P000|Setup|abdominal pain,fever|appendicitis
+P000|Setup|joint pain,muscle pain|arthritis
+P000|Setup|fever,rash,chills|dengue fever
+P000|Setup|fever,chills,sweating|malaria
+P000|Setup|fever,abdominal pain,weight loss|typhoid fever
+P000|Setup|sore throat,swollen lymph nodes|strep throat
+P000|Setup|headache,fever,runny nose|sinusitis
+P000|Setup|sore throat,fever,difficulty swallowing|tonsillitis
+P000|Setup|abdominal pain,diarrhea,constipation|urinary tract infection
+P000|Setup|fatigue,swollen lymph nodes|mononucleosis
+P000|Setup|nausea,vomiting,abdominal pain|hepatitis
+P000|Setup|fever,headache,dizziness|meningitis
+P000|Setup|rash,joint pain|lyme disease
+P000|Setup|fatigue,weight loss|chronic fatigue syndrome
+P000|Setup|shortness of breath,cough|asthma
+P000|Setup|itchy eyes,runny nose|conjunctivitis
+P000|Setup|ear pain,fever|ear infection
+P000|Setup|abdominal pain,nausea|gastritis
+P000|Setup|dizziness,chest pain|hypertension
+P000|Setup|fatigue,weight loss|diabetes
+P000|Setup|fatigue,numbness|anemia
+P000|Setup|rash,itching|eczema
+P000|Setup|joint pain,back pain|sprain
+P000|Setup|abdominal pain,difficulty urinating|kidney stones
+P001|John Doe|fever,cough,sneezing|common cold
+P005|Ravent|nausea,vomiting,diarrhea|gastroenteritis
+F042|Arnavi|fever,headache|
+F1023|Avani|fatigue|mononucleosis,chronic fatigue syndrome,diabetes,flu,anemia
+W110|Walowit|swollen lymph nodes,fever,muscle pain|
+W110|Walowit|swollen lymph nodes,fever,muscle pain|
+W110|Walowit|fever,chills|dengue fever,malaria
+P001|Ishanvi|runny nose,cough|common cold
+P001|Ishanvi|runny nose,cough|common cold
